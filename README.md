@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kj-patil&label=Profile%20views&color=0e75b6&style=flat" alt="kj-patil" /> </p>
 
-- 🌱 I’m currently learning **Data Science, Data Analysis, Java, Python, R**
+- 🌱 I’m currently learning **Data Science, Data Analysis, Python, R**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kiran-jaware/](https://www.linkedin.com/in/kiran-jaware/)
 
