@@ -1,26 +1,351 @@
+<!-- ======================= HEADER ======================= -->
+
 <h1 align="center">Hi 👋, I'm Kiran</h1>
-<h3 align="center">A passionate Data Scientist, Data Analytics, Java Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kj-patil&label=Profile%20views&color=0e75b6&style=flat" alt="kj-patil" /> </p>
+<h3 align="center">
+  Data Science • Data Analytics • Software Development
+</h3>
 
-- 🌱 I’m currently learning **Data Science, Data Analysis, Java, Python, R**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kiran-jaware/](https://www.linkedin.com/in/kiran-jaware/)
-
-- 💬 Ask me about **MySQL, Excel, AI, ML, DL**
-
-- 📫 How to reach me **kiranjaware2017@gmail.com**
-
-- ⚡ Fun fact **Learning New Things, Thinking about Technology**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_kj.patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kj.patil" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kj-patil&label=Profile%20Views&color=0e75b6&style=flat" alt="kj-patil" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<!-- ======================= SOCIAL LINKS ======================= -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kj-patil&show_icons=true&locale=en" alt="kj-patil" /></p>
+<h3 align="center">👇 Connect with me 👇</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kj-patil&" alt="kj-patil" /></p>
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/kiran-jaware/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+  </a>
+
+  <a href="https://github.com/KJ-Patil">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  </a>
+
+  <a href="https://instagram.com/_kj.patil">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="45"/>
+  </a>
+
+  <a href="mailto:kiranjaware2017@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
+  </a>
+
+</p>
+
+<hr/>
+
+<!-- ======================= ABOUT ======================= -->
+
+<h3 align="center">
+  🚀 Data • AI • Software • Technology
+</h3>
+
+<p align="center">
+  I'm passionate about building software applications, analyzing data,
+  and exploring Artificial Intelligence and Machine Learning.
+</p>
+
+<p align="center">
+  💻 I enjoy learning new technologies and turning ideas into practical projects.
+</p>
+
+<br/>
+
+<!-- ======================= CURRENT FOCUS ======================= -->
+
+<h3 align="center">🌱 Currently Working With</h3>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+</p>
+
+<!-- ======================= LANGUAGES ======================= -->
+
+<h2 align="center">🧑‍💻 Languages & Technologies</h2>
+
+<table align="center">
+
+<tr>
+<th>Languages</th>
+
+<td>
+
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+</a>
+
+<a href="https://www.java.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+</a>
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+</a>
+
+<a href="https://www.cprogramming.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+</a>
+
+<a href="https://isocpp.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
+</a>
+
+</td>
+</tr>
+
+
+<!-- ======================= DATA SCIENCE ======================= -->
+
+<tr>
+
+<th>Data Science & AI</th>
+
+<td>
+
+<a href="https://numpy.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+</a>
+
+<a href="https://scikit-learn.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+</a>
+
+<a href="https://www.tensorflow.org/">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
+</a>
+
+<a href="https://keras.io/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45"/>
+</a>
+
+<a href="https://opencv.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45"/>
+</a>
+
+<a href="https://matplotlib.org/">
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="45"/>
+</a>
+
+</td>
+
+</tr>
+
+
+<!-- ======================= DATA ANALYTICS ======================= -->
+
+<tr>
+
+<th>Data Analytics</th>
+
+<td>
+
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45"/>
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45"/>
+
+</td>
+
+</tr>
+
+
+<!-- ======================= WEB DEVELOPMENT ======================= -->
+
+<tr>
+
+<th>Web Development</th>
+
+<td>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+</a>
+
+<a href="https://nextjs.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
+</a>
+
+</td>
+
+</tr>
+
+
+<!-- ======================= FRAMEWORKS ======================= -->
+
+<tr>
+
+<th>Frameworks & Backend</th>
+
+<td>
+
+<a href="https://frappeframework.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+</a>
+
+<a href="https://dotnet.microsoft.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45"/>
+</a>
+
+<a href="https://firebase.google.com/">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
+</a>
+
+</td>
+
+</tr>
+
+
+<!-- ======================= DATABASE ======================= -->
+
+<tr>
+
+<th>Databases</th>
+
+<td>
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+</a>
+
+<a href="https://www.postgresql.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
+</a>
+
+<a href="https://mariadb.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" width="50"/>
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
+</a>
+
+<a href="https://firebase.google.com/">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
+</a>
+
+</td>
+
+</tr>
+
+
+<!-- ======================= TOOLS ======================= -->
+
+<tr>
+
+<th>Tools</th>
+
+<td>
+
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+</a>
+
+<a href="https://www.postman.com/">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
+</a>
+
+<a href="https://www.sonarsource.com/products/sonarqube/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="45"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+<!-- ======================= WHAT I DO ======================= -->
+
+<h2 align="center">💡 What I Do</h2>
+
+<p align="center">
+
+📊 Data Analysis & Visualization  
+<br/>
+🤖 Machine Learning & AI  
+<br/>
+💻 Software & Web Development  
+<br/>
+🌐 Frontend & Backend Development  
+<br/>
+🔗 REST API Development & Integration  
+<br/>
+🗄️ Database Design & Management  
+
+</p>
+
+<!-- ======================= CONTACT ======================= -->
+
+<h2 align="center">📫 Contact Me</h2>
+
+<p align="center">
+
+<a href="mailto:kiranjaware2017@gmail.com">
+<img src="https://img.shields.io/badge/Email-kiranjaware2017%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kiran-jaware/">
+<img src="https://img.shields.io/badge/LinkedIn-Kiran%20Jaware-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kj-patil&show_icons=true&locale=en&include_all_commits=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kj-patil" />
+
+</p>
+
+<!-- ======================= FOOTER ======================= -->
+
+<h3 align="center">
+  ⚡ Learning • Building • Exploring • Growing ⚡
+</h3>
