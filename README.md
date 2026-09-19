@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 
 <h3 align="center">
- Software Development • Data Analytics • Data Science 
+ Software Development • Data Analytics • Data Science
 </h3>
 
 <p align="center">
@@ -20,13 +20,19 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
 
+  |
+
   <a href="https://github.com/KJ-Patil">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
   </a>
 
+  |
+
   <a href="https://instagram.com/_kj.patil">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="45"/>
   </a>
+
+  |
 
   <a href="mailto:kiranjaware2017@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
@@ -59,17 +65,39 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+  </a>
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  &nbsp; | &nbsp;
 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <a href="https://www.java.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
+  </a>
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  &nbsp; | &nbsp;
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <a href="https://nextjs.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
+  </a>
 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  &nbsp; | &nbsp;
+
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+  </a>
+
+  &nbsp; | &nbsp;
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
+  </a>
+
+  &nbsp; | &nbsp;
+
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/>
+  </a>
 
 </p>
 
@@ -88,21 +116,31 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
 </a>
 
+&nbsp; | &nbsp;
+
 <a href="https://www.java.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 </a>
+
+&nbsp; | &nbsp;
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
 </a>
 
+&nbsp; | &nbsp;
+
 <a href="https://www.typescriptlang.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
 </a>
 
+&nbsp; | &nbsp;
+
 <a href="https://www.cprogramming.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
 </a>
+
+&nbsp; | &nbsp;
 
 <a href="https://isocpp.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
@@ -124,25 +162,37 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
 </a>
 
+&nbsp; | &nbsp;
+
 <a href="https://pandas.pydata.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
 </a>
+
+&nbsp; | &nbsp;
 
 <a href="https://scikit-learn.org/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
 </a>
 
+&nbsp; | &nbsp;
+
 <a href="https://www.tensorflow.org/">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
 </a>
+
+&nbsp; | &nbsp;
 
 <a href="https://keras.io/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45"/>
 </a>
 
+&nbsp; | &nbsp;
+
 <a href="https://opencv.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45"/>
 </a>
+
+&nbsp; | &nbsp;
 
 <a href="https://matplotlib.org/">
 <img src="https://matplotlib.org/_static/images/logo2.svg" width="45"/>
@@ -161,9 +211,11 @@
 
 <td>
 
-<img src="https://img.icons8.com/color/48/power-bi.png" width="45"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45" alt="Power BI"/>
 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45"/>
+&nbsp; | &nbsp;
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" alt="Excel"/>
 
 </td>
 
@@ -182,17 +234,25 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
 </a>
 
+&nbsp; | &nbsp;
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
 </a>
+
+&nbsp; | &nbsp;
 
 <a href="https://react.dev/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
 </a>
 
+&nbsp; | &nbsp;
+
 <a href="https://nextjs.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45"/>
 </a>
+
+&nbsp; | &nbsp;
 
 <a href="https://nodejs.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
@@ -212,16 +272,22 @@
 <td>
 
 <a href="https://frappeframework.com/">
-<img src="https://frappe.io/files/frappe.png" width="45"/>
+<img src="https://frappe.io/files/frappe.png" width="45" alt="Frappe"/>
 </a>
+
+&nbsp; | &nbsp;
 
 <a href="https://dotnet.microsoft.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45"/>
 </a>
 
+&nbsp; | &nbsp;
+
 <a href="https://firebase.google.com/">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
 </a>
+
+&nbsp; | &nbsp;
 
 <a href="https://www.postman.com/">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
@@ -244,17 +310,25 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
 </a>
 
+&nbsp; | &nbsp;
+
 <a href="https://www.postgresql.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
 </a>
+
+&nbsp; | &nbsp;
 
 <a href="https://mariadb.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" width="50"/>
 </a>
 
+&nbsp; | &nbsp;
+
 <a href="https://www.mongodb.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
 </a>
+
+&nbsp; | &nbsp;
 
 <a href="https://firebase.google.com/">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
@@ -277,13 +351,19 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
 </a>
 
+&nbsp; | &nbsp;
+
 <a href="https://github.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
 </a>
 
+&nbsp; | &nbsp;
+
 <a href="https://www.postman.com/">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
 </a>
+
+&nbsp; | &nbsp;
 
 <a href="https://www.sonarsource.com/products/sonarqube/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="45"/>
