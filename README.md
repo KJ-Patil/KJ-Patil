@@ -58,19 +58,20 @@
 <h3 align="center">🌱 Currently Working With</h3>
 
 <p align="center">
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" align="absmiddle" alt="Python"/>
+  &nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" align="absmiddle" alt="Java"/>
+  &nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white">
+    <img src="https://cdn.simpleicons.org/nextdotjs/black" width="40" height="40" align="absmiddle" alt="Next.js"/>
+  </picture>
+  &nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" align="absmiddle" alt="React"/>
+  &nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" align="absmiddle" alt="JavaScript"/>
+  &nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" align="absmiddle" alt="TypeScript"/>
 </p>
 
 <!-- ======================= LANGUAGES ======================= -->
