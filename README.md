@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 
 <h3 align="center">
-  Data Science • Data Analytics • Software Development
+ Software Development • Data Science • Data Analytics 
 </h3>
 
 <p align="center">
