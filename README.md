@@ -31,7 +31,7 @@
 <!-- ======================= ABOUT ======================= -->
 
 <h3 align="center">
-  🚀 Data • AI • Software • Technology
+  🚀 Software • Data • AI • Technology
 </h3>
 
 <p align="center">
